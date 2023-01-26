@@ -7,11 +7,11 @@ ATM Machine Project using JAVA
 ![1](https://user-images.githubusercontent.com/97332062/214898865-952d9dc5-d52b-493d-8221-527bba9ad1a2.PNG)
 
 
-Amount Deposit
+Amount Deposit"\n"
 ![2](https://user-images.githubusercontent.com/97332062/214899111-32aa7de7-a410-44a1-987d-845b0e2af9b0.PNG)
 
 
-Amount Withdrawal
+Amount Withdrawal\n
 ![3](https://user-images.githubusercontent.com/97332062/214899299-b96c217f-0134-460e-93c8-85474e749c19.PNG)
 
 

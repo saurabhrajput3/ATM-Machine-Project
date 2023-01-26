@@ -2,6 +2,13 @@
 
 ATM Machine Project using JAVA
 
+Functionalities:
+ 1) Deposit Amount 
+ 2) Withdrawal Amount 
+ 3) Current Balance 
+ 4) Account Statement 
+ 5) Exit
+
 
 
 ![1](https://user-images.githubusercontent.com/97332062/214898865-952d9dc5-d52b-493d-8221-527bba9ad1a2.PNG)

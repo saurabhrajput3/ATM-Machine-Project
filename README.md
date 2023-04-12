@@ -1,6 +1,6 @@
-# ATM-Machine-Project
+# Self-Service Banking System 
 
-ATM Machine Project using JAVA
+Self-Service Banking System using JAVA
 
 Functionalities:
  1) Deposit Amount 
